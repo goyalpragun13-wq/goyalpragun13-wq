@@ -1,0 +1,97 @@
+# linkedin-heatmap.yaml
+# Dynamic Activity Matrix & Knowledge Graph for Pragun
+# Designed for GitHub Profile Integration & Developer Metrics
+
+developer:
+  name: "Pragun"
+  headline: "AI & Generative Systems Engineer | LLMs, RAG, CrewAI & Scalable Backends"
+  academics:
+    institution: "Vellore Institute of Technology (VIT Vellore)"
+    degree: "B.Tech in Information Technology"
+    cgpa: "9.55 / 10.0"
+    status: "Undergraduate"
+  location: "India 🇮🇳"
+  contact:
+    email: "goyalpragun13@gmail.com"
+    github: "https://github.com/YOUR_GITHUB_USERNAME"
+    linkedin: "https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"
+    phone: "+91-7988977272"
+
+linkedin_heatmap_matrix:
+  metadata:
+    profile_type: "Tech Thinker & Autonomous AI Practitioner"
+    consistency_rate: "99.4%"
+    active_streak_weeks: 24
+    cadence: "Daily Insights • Weekly Deep-Dives • Bi-weekly Architecture Breakdowns"
+
+  weekly_heatmap_schedule:
+    monday:
+      domain: "RAG & Information Retrieval"
+      intensity_level: "High (0.95)"
+      key_topics:
+        - "Dense vs. Sparse Vector Embeddings"
+        - "Contextual Re-ranking & Chunking Optimization"
+        - "Multi-Hop Query Pipelines"
+      delivery: "Technical Architecture Breakdown"
+
+    tuesday:
+      domain: "Autonomous Multi-Agent Swarms"
+      intensity_level: "Peak (0.92)"
+      key_topics:
+        - "CrewAI & LangChain Decision Loops"
+        - "State Management & Cognitive Memory Buffers"
+        - "Tool Calling & Action Dispatching"
+      delivery: "Code Snippet & Architectural Pattern"
+
+    wednesday:
+      domain: "Production Backend & Systems"
+      intensity_level: "High (0.88)"
+      key_topics:
+        - "FastAPI Async IO Optimization"
+        - "Microservices Inter-Service Communication"
+        - "REST API Security & Rate-Limiting"
+      delivery: "Engineering Note"
+
+    thursday:
+      domain: "Deep Learning & NLP Research"
+      intensity_level: "High (0.86)"
+      key_topics:
+        - "Transformer Architectures & Attention Mechanisms"
+        - "BERT & LSTM Sequential Modeling"
+        - "Scikit-Learn Feature Pipelines"
+      delivery: "Paper Summary & Key Takeaways"
+
+    friday:
+      domain: "Cloud, Infrastructure & Containers"
+      intensity_level: "Medium-High (0.82)"
+      key_topics:
+        - "AWS Serverless (Lambda, S3, EC2)"
+        - "Docker Containerization & Slim Builds"
+        - "GitHub Actions CI/CD Automations"
+      delivery: "Production Playbook"
+
+    saturday:
+      domain: "Building in Public — Project AURA"
+      intensity_level: "Maximum (0.98)"
+      key_topics:
+        - "Autonomous Morning Briefing Engine"
+        - "Decision-Support Workflow Automations"
+        - "Quantified Builder Productivity Metrics (30+ mins saved/day)"
+      delivery: "Project Showcase & Live Demo"
+
+    sunday:
+      domain: "AI Community & Emerging Trends"
+      intensity_level: "Medium (0.75)"
+      key_topics:
+        - "Open-Source Foundation Model Releases"
+        - "Ethical AI & Agentic Governance"
+        - "Developer Experience in the GenAI Era"
+      delivery: "Long-form Reflection"
+
+tech_stack_matrix:
+  languages: ["Python", "SQL"]
+  gen_ai_and_agents: ["LangChain", "CrewAI", "HuggingFace", "RAG Pipelines", "Prompt Engineering"]
+  ml_dl: ["BERT", "LSTM", "Scikit-learn", "NLP"]
+  backend_engineering: ["FastAPI", "RESTful APIs", "Microservices Architecture"]
+  cloud_and_devops: ["AWS (EC2, S3, Lambda)", "Docker", "CI/CD Pipelines"]
+  databases: ["MySQL", "Supabase", "Vector Stores"]
